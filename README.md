@@ -34,7 +34,8 @@ Right now I'm working on a research project that uses both real and synthetic st
 **Stock Price Prediction Using Real and Simulated Data**
 
 Working on comparing different models (LSTM, Quantum-LSTM, CycleGAN) trained on hybrid datasets to see what actually works best for predicting stock prices. Using AAPL data from 2020-2023.
-
+[https://github.com/vnnviv
+](https://github.com/vnnviv/Stock-Price-Prediction-Using-Data-Augmentation-with-Generative-Models)
 ## get in touch
 
 - Email: varyseo0@gmail.com
