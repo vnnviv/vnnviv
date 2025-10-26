@@ -2,7 +2,7 @@
 
 Machine learning researcher focused on quantitative finance and stock price prediction.
 
-## about me
+## About me
 
 I started coding in high school and got really into the intersection of finance and machine learning. I'm particularly interested in how we can use GANs and other generative models to improve financial forecasting.
 
