@@ -1,4 +1,4 @@
-# Helloi, i'm Vivian!
+# Hello, i'm Vivian!
 
 Machine learning researcher focused on quantitative finance and stock price prediction.
 
