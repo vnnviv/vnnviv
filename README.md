@@ -7,7 +7,7 @@ Focused on synthetic data augmentation for financial time series and algorithmic
 in real estate valuation models.
 
 [![Email](https://img.shields.io/badge/Email-varyseo0@gmail.com-blue)](mailto:varyseo0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivian_Chan-0077B5)](your-linkedin-url)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Vivian_Chan-0077B5)](your-linkedin-url](https://www.linkedin.com/in/vivian-c-94303232b/))
 
 ---
 
