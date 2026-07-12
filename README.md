@@ -8,6 +8,7 @@ in real estate valuation models.
 
 [![Email](https://img.shields.io/badge/Email-varyseo0@gmail.com-blue)](mailto:varyseo0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivian_Chan-0077B5)](https://www.linkedin.com/in/vivian-c-94303232b/)
+[![Discord](https://img.shields.io/badge/Discord-vnnviv-5865F2)](https://discord.com/users/YOUR-USER-ID)
 
 ---
 
