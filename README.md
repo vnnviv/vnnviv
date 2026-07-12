@@ -1,6 +1,6 @@
 # Vivian Chan
 
-**Quantitative Researcher | Economics + Mathematics | Pasadena City College → Transfer 2028**
+**Quantitative Researcher | Economics + Mathematics 
 
 Research intern at the CalCyAIVR Institute (PolySec Lab), Cal Poly Pomona.
 Focused on synthetic data augmentation for financial time series and algorithmic bias 
