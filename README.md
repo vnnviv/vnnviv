@@ -66,8 +66,8 @@ Google Colab · Git/GitHub · Overleaf · Xcode · Firebase
 
 ## Background
 
-- **Research Intern** — CalCyAIVR Institute, PolySec Lab, Cal Poly Pomona (2025–Present)
-- **Developer** — SpotCheck iOS App (CoreML · SwiftUI)
+ **Research Intern** — CalCyAIVR Institute, PolySec Lab, Cal Poly Pomona (2025–Present)
+ **Developer** — SpotCheck iOS App (CoreML · SwiftUI)
 
 ---
 
