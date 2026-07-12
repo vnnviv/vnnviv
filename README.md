@@ -1,13 +1,13 @@
 # Vivian Chan
 
-Quantitative Researcher | Economics + Mathematics 
+**Quantitative Researcher | Economics + Mathematics**
 
 Research intern at the CalCyAIVR Institute (PolySec Lab), Cal Poly Pomona.
-Focused on synthetic data augmentation for financial time series and algorithmic bias 
+Focused on synthetic data augmentation for financial time series and algorithmic bias
 in real estate valuation models.
 
 [![Email](https://img.shields.io/badge/Email-varyseo0@gmail.com-blue)](mailto:varyseo0@gmail.com)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Vivian_Chan-0077B5)](your-linkedin-url](https://www.linkedin.com/in/vivian-c-94303232b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivian_Chan-0077B5)](https://www.linkedin.com/in/vivian-c-94303232b/)
 
 ---
 
@@ -16,9 +16,9 @@ in real estate valuation models.
 **[Stock Price Prediction Using Synthetic Data Augmentation with Generative Models](https://github.com/vnnviv/Stock-Price-Prediction-Using-Data-Augmentation-with-Generative-Models)**
 *CalCyAIVR Institute — PolySec Lab, Cal Poly Pomona · Presented at SCCUR 2025*
 
-Comparative analysis of LSTM models trained on real vs. synthetic financial time series 
-data using WGAN, CycleGAN, and SMOTE-TS augmentation pipelines. Introduces the 
-Autocorrelation Inflation Effect and Leakage Inflation Ratio as diagnostic frameworks 
+Comparative analysis of LSTM models trained on real vs. synthetic financial time series
+data using WGAN, CycleGAN, and SMOTE-TS augmentation pipelines. Introduces the
+Autocorrelation Inflation Effect and Leakage Inflation Ratio as diagnostic frameworks
 for evaluating spurious predictability in financial ML research.
 
 `Working paper available on SSRN` · [Link coming soon]
@@ -27,9 +27,9 @@ for evaluating spurious predictability in financial ML research.
 
 **Algorithmic Bias in Real Estate Automated Valuation Models — SGV Case Study** *(In Progress)*
 
-Investigating whether AVMs systematically underprice properties in majority-minority 
-neighborhoods in the San Gabriel Valley using FFIEC HMDA mortgage data and Zillow 
-Research datasets. Applies econometric regression and ML classification to study 
+Investigating whether AVMs systematically underprice properties in majority-minority
+neighborhoods in the San Gabriel Valley using FFIEC HMDA mortgage data and Zillow
+Research datasets. Applies econometric regression and ML classification to study
 Fair Housing Act implications of algorithmic pricing.
 
 ---
@@ -37,8 +37,10 @@ Fair Housing Act implications of algorithmic pricing.
 ## Projects
 
 **[SpotCheck — iOS Skin Condition Classifier](https://github.com/vnnviv)**
-On-device ML classification app using CoreML, SwiftUI, and Firebase. 
+
+On-device ML classification app using CoreML, SwiftUI, and Firebase.
 Demographic-adjusted predictions with real-time health insights dashboard.
+
 `Swift` `CoreML` `SwiftUI` `Firebase`
 
 ---
@@ -70,4 +72,4 @@ Google Colab · Git/GitHub · Overleaf · Xcode · Firebase
 
 ## Contact
 
-varyseo0@gmail.com · [LinkedIn](your-linkedin-url) · [Personal Website](coming-soon)
+varyseo0@gmail.com · [LinkedIn](https://www.linkedin.com/in/vivian-c-94303232b/)
