@@ -46,31 +46,6 @@ Demographic-adjusted predictions with real-time health insights dashboard.
 
 ---
 
-## Technical Stack
-
-**Languages**
-Python · Swift · Java · LaTeX · SQL
-
-**Machine Learning**
-PyTorch · PennyLane (Quantum ML) · Scikit-learn · Statsmodels
-LSTM · WGAN · CycleGAN · SMOTE-TS · QLSTM
-
-**Data & Finance**
-Pandas · NumPy · Financial time series · Synthetic data generation
-FFIEC HMDA · Zillow Research API · Keepa
-
-**Tools**
-Google Colab · Git/GitHub · Overleaf · Xcode · Firebase
-
----
-
-## Background
-
- **Research Intern** — CalCyAIVR Institute, PolySec Lab, Cal Poly Pomona (2025–Present)
- **Developer** — SpotCheck iOS App (CoreML · SwiftUI)
-
----
-
 ## Contact
 
 varyseo0@gmail.com · [LinkedIn](https://www.linkedin.com/in/vivian-c-94303232b/)
