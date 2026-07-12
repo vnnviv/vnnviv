@@ -64,10 +64,7 @@ Google Colab · Git/GitHub · Overleaf · Xcode · Firebase
 ## Background
 
 - **Research Intern** — CalCyAIVR Institute, PolySec Lab, Cal Poly Pomona (2025–Present)
-- **Incoming Economics + Mathematics** — Pasadena City College, Honors Program (Fall 2026)
-- **Trilingual** — English · Cantonese · Mandarin
 - **Developer** — SpotCheck iOS App (CoreML · SwiftUI)
-- **Founder** — Chariu Ventures
 
 ---
 
