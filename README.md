@@ -39,10 +39,10 @@ Fair Housing Act implications of algorithmic pricing.
 
 **[SpotCheck — iOS Skin Condition Classifier](https://github.com/vnnviv)**
 
-On-device ML classification app using CoreML, SwiftUI, and Firebase.
-Demographic-adjusted predictions with real-time health insights dashboard.
+On-device ML classification app using CoreML, SwiftUI, CreateML, and Firebase.
+Demographic-adjusted predictions with real-time health insights dashboard. 
 
-`Swift` `CoreML` `SwiftUI` `Firebase`
+`Swift` `CoreML` `SwiftUI` `Firebase` `CreateML` 
 
 ---
 
