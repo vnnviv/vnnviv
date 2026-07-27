@@ -186,11 +186,6 @@ Pediatric skin analysis pipeline · EfficientNet-B3 · **82.5% accuracy** on HAM
 
 <br/>
 
-<sub>**spoken languages**</sub>
-
-![English](https://img.shields.io/badge/English_·_Native-FFD3D4?style=flat-square&logoColor=775C56)
-![Mandarin](https://img.shields.io/badge/Mandarin_·_Intermediate-D5EBE4?style=flat-square&logoColor=775C56)
-![Cantonese](https://img.shields.io/badge/Cantonese_·_Intermediate-F8F4E8?style=flat-square&logoColor=775C56)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F4E8,50:D5EBE4,100:FFD3D4&height=110&section=footer" width="100%"/>
