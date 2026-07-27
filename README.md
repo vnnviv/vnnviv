@@ -57,8 +57,12 @@
 ### ˚˖𓍢ִ໋❀ Featured Project
 
 * ʚɞ **SpotCheck — iOS Skin Condition Classifier**  
-  * ✦ **Description:** On-device ML classification app featuring demographic-enhanced predictions with a real-time health insights dashboard.  
+  * ✦ **Description:** On-device ML classification app featuring demographic-enhanced predictions with a real-time health insights dashboard, EfficientNet-B3 (82.5% accuracy)
+  * ✦ **PediaVision:** Pediatric skin analysis ML system · PyTorch · EfficientNet-B3 · HAM10000 + ACNE04 datasets
   * ✦ **Tech Stack:** `Swift` · `CoreML` · `SwiftUI` · `Firebase` · `CreateML`
+    
+    **[SpotCheck](https://github.com/vnnviv/SpotCheck)** +
+    **[PediaVision](https://github.com/vnnviv/PediaVision)**
 
 ---
 
