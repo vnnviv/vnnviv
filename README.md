@@ -4,9 +4,7 @@
 
 <br/>
 
-# ​🇻​​🇮​​🇻​​🇮​​🇦​​🇳​ ​🇨​​🇭​​🇦​​🇳​
-
-
+<h1 align="center" style="font-family: 'DM Serif Display', Georgia, serif; color: #775C56;">Vivian Chan</h1>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=15&pause=1000&color=A08070&center=true&vCenter=true&width=560&lines=quantitative+research+%E2%8B%86+economics+%2B+math;ML+diagnostics+%E2%8B%86+housing+equity+%E2%8B%86+financial+modeling;connecting+math+to+the+real+world+%E2%8B%86" alt="Subtitle"/>
