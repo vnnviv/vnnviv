@@ -18,6 +18,8 @@
 ### ⋆˚✿˖° About Me
 
 > Hii, I specialize in synthetic data augmentation for financial time series and evaluating algorithmic bias in models. My focus lies at the intersection of quantitative modeling, machine learning diagnostics, and economic equity. <3
+>
+> I would love to connect with anyone intrested in similar research fields, but Im really opened minded! Please feel free to reach out!
 
 ---
 
