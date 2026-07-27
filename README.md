@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/varyseo0@gmail.com-FFD3D4?style=for-the-badge&logo=gmail&logoColor=775C56)](mailto:varysee0@gmail.com)
+[![Email](https://img.shields.io/badge/varysee@gmail.com-FFD3D4?style=for-the-badge&logo=gmail&logoColor=775C56)](mailto:varysee0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Vivian_Chan-D5EBE4?style=for-the-badge&logo=linkedin&logoColor=775C56)](https://www.linkedin.com/in/vivian-c-94303232b/)
 [![Discord](https://img.shields.io/badge/vnnviv-F8F4E8?style=for-the-badge&logo=discord&logoColor=775C56)](https://discord.com/users/YOUR-USER-ID)
 [![GitHub](https://img.shields.io/badge/vnnviv-FFD3D4?style=for-the-badge&logo=github&logoColor=775C56)](https://github.com/vnnviv)
@@ -192,23 +192,6 @@ Pediatric skin analysis pipeline · EfficientNet-B3 · **82.5% accuracy** on HAM
 ![Mandarin](https://img.shields.io/badge/Mandarin_·_Intermediate-D5EBE4?style=flat-square&logoColor=775C56)
 ![Cantonese](https://img.shields.io/badge/Cantonese_·_Intermediate-F8F4E8?style=flat-square&logoColor=775C56)
 
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3D4&height=2&section=header" width="100%"/>
-
-<br/>
-
-## ㅤ♡ྀི ₊ &nbsp;𝑐𝑜𝑛𝑡𝑎𝑐𝑡
-
-<div align="center">
-
-<br/>
-
-<sub> &nbsp;[varyseo0@gmail.com](mailto:varyseo0@gmail.com) &nbsp;&nbsp;  &nbsp;[Vivian Chan](https://www.linkedin.com/in/vivian-c-94303232b/) &nbsp;&nbsp;  &nbsp;`vnnviv`</sub>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F4E8,50:D5EBE4,100:FFD3D4&height=110&section=footer" width="100%"/>
 
