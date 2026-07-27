@@ -80,7 +80,7 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;<sub>![03](https://img.shields.io/badge/03-FFD3D4?style=flat-square&logoColor=775C56) &nbsp;**Medical AI · Hybrid Imaging & Diagnostic Performance**</sub>
+&nbsp;&nbsp;&nbsp;<sub>![03](https://img.shields.io/badge/03-FFD3D4?style=flat-square&logoColor=775C56) &nbsp;**Biomedical ML · Hybrid Imaging & Diagnostic Performance**</sub>
 
 &nbsp;&nbsp;&nbsp;**Hybrid Quantitative Machine Learning Model for Brain Tumor Predictions**
 
