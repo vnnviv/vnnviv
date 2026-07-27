@@ -191,15 +191,14 @@ Pediatric skin analysis pipeline · EfficientNet-B3 · **82.5% accuracy**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ㅤ♡ྀི ₊ Contact
-
 <div align="center">
 
-| ✉️ Email | 💼 LinkedIn | 💬 Discord |
-|:---:|:---:|:---:|
-| [varyseo0@gmail.com](mailto:varyseo0@gmail.com) | [Vivian Chan](https://www.linkedin.com/in/vivian-c-94303232b/) | `vnnviv` |
-
+  **Email:** [varyseo0@gmail.com](mailto:varyseo0@gmail.com) 
+  
+  **LinkedIn:** [Vivian Chan](https://www.linkedin.com/in/vivian-c-94303232b/)
+  
+   **Discord:** `vnnviv`
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b5d5f5,50:c9b8e8,100:ffd6e7&height=100&section=footer" width="100%"/>
 
 *Made with 🤍*
