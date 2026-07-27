@@ -206,7 +206,7 @@ Pediatric skin analysis pipeline · EfficientNet-B3 · **82.5% accuracy** on HAM
 
 <br/>
 
-<sub>✉️ &nbsp;[varyseo0@gmail.com](mailto:varyseo0@gmail.com) &nbsp;&nbsp; 💼 &nbsp;[Vivian Chan](https://www.linkedin.com/in/vivian-c-94303232b/) &nbsp;&nbsp; 💬 &nbsp;`vnnviv`</sub>
+<sub> &nbsp;[varyseo0@gmail.com](mailto:varyseo0@gmail.com) &nbsp;&nbsp;  &nbsp;[Vivian Chan](https://www.linkedin.com/in/vivian-c-94303232b/) &nbsp;&nbsp;  &nbsp;`vnnviv`</sub>
 
 <br/><br/>
 
