@@ -27,7 +27,7 @@
   *CalCyAIVR Institute — PolySec Lab, Cal Poly Pomona*
   
      *(Mentor: Mohammad Husain & Antoine Si)*    
-  * ✦ **Recognition:** Presented at SCCUR 2025 · 3rd Place, Pomona High School Research Conference  
+  * ✦ **Recognition:** Presented at SCCUR 2025 · 3rd Place, Pomona High School Research Competition   
   * ✦ **Overview:** Comparative analysis of LSTM models trained on real vs. synthetic financial time series data using WGAN, CycleGAN, and SMOTE-TS augmentation pipelines. Introduces the *Autocorrelation Inflation Effect* and *Leakage Inflation Ratio* as diagnostic frameworks for evaluating spurious predictability in financial ML research.  
   * ✦ **Status:** `Working paper on SSRN` · *[Link coming soon]*
 
