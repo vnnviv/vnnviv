@@ -2,7 +2,7 @@
 
 # 𝖵𝗂𝗏𝗂𝖺𝗇 𝖢𝗁𝖺𝗇
 
-### *Interested in Quantitative Research | Economics + Mathematics*
+### *Interested in Quantitative Research | Economics + Physics*
 
 [![Email](https://img.shields.io/badge/Email-varyseo0@gmail.com-FFB7B2?style=flat-square&logo=gmail&logoColor=white)](mailto:varyseo0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivian_Chan-C7CEEA?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivian-c-94303232b/)
