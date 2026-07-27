@@ -17,7 +17,7 @@
 
 ### ⋆˚✿˖° About Me
 
-> I specialize in synthetic data augmentation for financial time series and evaluating algorithmic bias in real estate valuation models. My focus lies at the intersection of quantitative modeling, machine learning diagnostics, and economic equity.
+> Hii, I specialize in synthetic data augmentation for financial time series and evaluating algorithmic bias in real estate valuation models. My focus lies at the intersection of quantitative modeling, machine learning diagnostics, and economic equity.
 
 ---
 
