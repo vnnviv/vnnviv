@@ -38,7 +38,8 @@
 
 <br />
 
-* ʚɞ **Hybrid Quantitative Machine Learning Model for Brain Tumor Predictions**   
+* ʚɞ **Hybrid Quantitative Machine Learning Model for Brain Tumor Predictions**
+*   *(Mentor: Jungsoo Han)*  
   * ✦ **Overview:** Evaluated whether hybrid datasets combining real MRI scans (Kaggle & TCIA) with synthetically augmented image data improve diagnostic performance across CNNs, SVMs, MobileNetV2, and EfficientNet-B3 architectures.  
   * ✦ **Key Findings:** Kaggle Real & Synthetic Baseline CNN achieved the highest overall accuracy at **$97.2\% \pm 0.4\%$** (outperforming the real-only baseline at $93.5\% \pm 0.7\%$). The EfficientNet-B3 hybrid model achieved **$94.9\% \pm 0.4\%$** accuracy with high specificity ($98.3\% \pm 0.1\%$).
 
