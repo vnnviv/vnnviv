@@ -1,31 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e7,50:c9b8e8,100:b5d5f5&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD3D4,50:D5EBE4,100:F8F4E8&height=130&section=header&text=&animation=fadeIn" width="100%"/>
 
 <br/>
 
-# 𝖵𝗂𝗏𝗂𝖺𝗇 𝖢𝗁𝖺𝗇
+# ​🇻​​🇮​​🇻​​🇮​​🇦​​🇳​ ​🇨​​🇭​​🇦​​🇳​
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=18&pause=1000&color=9B8EC4&center=true&vCenter=true&width=500&lines=Quantitative+Research;Economics+%2B+Physics;ML+%7C+Housing+Equity+%7C+Financial+Modeling" alt="Typing SVG"/>
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-varyseo0@gmail.com-FFB7C5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varyseo0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivian_Chan-C9B8E8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivian-c-94303232b/)
-[![Discord](https://img.shields.io/badge/Discord-vnnviv-B5D5F5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR-USER-ID)
-[![GitHub](https://img.shields.io/badge/GitHub-vnnviv-D4F0C4?style=for-the-badge&logo=github&logoColor=333)](https://github.com/vnnviv)
 
 <br/>
 
-*⸜(｡˃ ᵕ ˂ )⸝♡*
+<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=15&pause=1000&color=A08070&center=true&vCenter=true&width=560&lines=quantitative+research+%E2%8B%86+economics+%2B+physics;ML+diagnostics+%E2%8B%86+housing+equity+%E2%8B%86+financial+modeling;connecting+math+to+the+real+world+%E2%8B%86" alt="Subtitle"/>
+
+<br/>
+
+[![Email](https://img.shields.io/badge/varyseo0@gmail.com-FFD3D4?style=for-the-badge&logo=gmail&logoColor=775C56)](mailto:varyseo0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Vivian_Chan-D5EBE4?style=for-the-badge&logo=linkedin&logoColor=775C56)](https://www.linkedin.com/in/vivian-c-94303232b/)
+[![Discord](https://img.shields.io/badge/vnnviv-F8F4E8?style=for-the-badge&logo=discord&logoColor=775C56)](https://discord.com/users/YOUR-USER-ID)
+[![GitHub](https://img.shields.io/badge/vnnviv-FFD3D4?style=for-the-badge&logo=github&logoColor=775C56)](https://github.com/vnnviv)
+
+<br/>
+
+<sub>⊹ ˖ ° ⋆ &nbsp; *⸜(｡˃ ᵕ ˂ )⸝♡* &nbsp; ⋆ ° ˖ ⊹</sub>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3D4&height=2&section=header" width="100%"/>
 
-## ⋆˚✿˖° About Me
+<br/>
+
+## ⋆˚✿˖° 𝑎𝑏𝑜𝑢𝑡 𝑚𝑒
 
 > Hii, I specialize in synthetic data augmentation for financial time series and evaluating algorithmic bias in models. My focus lies at the intersection of quantitative modeling, machine learning diagnostics, and economic equity.
 >
@@ -33,79 +38,75 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ᧔ෆ᧓ Research
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D5EBE4&height=2&section=header" width="100%"/>
 
 <br/>
 
-<details open>
-<summary><b>ʚɞ &nbsp;Stock Price Prediction Using Synthetic Data Augmentation with Generative Models</b></summary>
+## ᧔ෆ᧓ &nbsp;𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ
+
+<div align="center">
+<sub>⊹ ◦ &nbsp; 𝑞𝑢𝑎𝑛𝑡𝑖𝑡𝑎𝑡𝑖𝑣𝑒 𝑚𝑜𝑑𝑒𝑙𝑖𝑛𝑔 &nbsp;·&nbsp; 𝑚𝑎𝑐ℎ𝑖𝑛𝑒 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑑𝑖𝑎𝑔𝑛𝑜𝑠𝑡𝑖𝑐𝑠 &nbsp;·&nbsp; 𝑒𝑐𝑜𝑛𝑜𝑚𝑖𝑐 𝑒𝑞𝑢𝑖𝑡𝑦 &nbsp; ◦ ⊹</sub>
+</div>
 
 <br/>
 
-> 🏛️ &nbsp;*CalCyAIVR Institute — PolySec Lab, Cal Poly Pomona*
-> 
-> 👤 &nbsp;*Mentor: Mohammad Husain & Antoine Si*
+&nbsp;&nbsp;&nbsp;<sub>![01](https://img.shields.io/badge/01-FFD3D4?style=flat-square&logoColor=775C56) &nbsp;**Financial Machine Learning · Synthetic Data Augmentation**</sub>
 
-| | |
-|---|---|
-| ✦ **Recognition** | Presented at SCCUR 2025 · 3rd Place, Pomona High School Research Competition |
-| ✦ **Overview** | Comparative analysis of LSTM models trained on real vs. synthetic financial time series data using WGAN, CycleGAN, and SMOTE-TS augmentation pipelines. Introduces the *Autocorrelation Inflation Effect* and *Leakage Inflation Ratio* as diagnostic frameworks for evaluating spurious predictability in financial ML research. |
-| ✦ **Status** | `Working paper on SSRN` · *Link coming soon* |
+&nbsp;&nbsp;&nbsp;**Stock Price Prediction Using Synthetic Data Augmentation with Generative Models**
 
-</details>
+&nbsp;&nbsp;&nbsp;<sub>🏛 CalCyAIVR Institute, PolySec Lab, Cal Poly Pomona &nbsp;·&nbsp; 👤 Mentor: Mohammad Husain & Antoine Si</sub>
+
+&nbsp;&nbsp;&nbsp;<sub>[![SSRN](https://img.shields.io/badge/SSRN_Working_Paper-F8F4E8?style=flat-square&logoColor=775C56)](https://ssrn.com) &nbsp; [![SCCUR](https://img.shields.io/badge/Presented_at_SCCUR_2025-D5EBE4?style=flat-square&logoColor=775C56)](.) &nbsp; [![Award](https://img.shields.io/badge/3rd_Place_·_Pomona_HS_Research-FFD3D4?style=flat-square&logoColor=775C56)](.)</sub>
+
+> Comparative analysis of LSTM models trained on real vs. synthetic financial time series data using WGAN, CycleGAN, and SMOTE-TS augmentation pipelines. Introduces the ***Autocorrelation Inflation Effect*** and ***Leakage Inflation Ratio*** as diagnostic frameworks for evaluating spurious predictability in financial ML research.
 
 <br/>
 
-<details open>
-<summary><b>ʚɞ &nbsp;Stock Prediction Using Quantitative Models — Out-of-Sample Validation & Cross-Asset Generalization</b></summary>
+<div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
 
 <br/>
 
-> 👤 &nbsp;*Mentor: Courtney Bushyeager*
+&nbsp;&nbsp;&nbsp;<sub>![02](https://img.shields.io/badge/02-D5EBE4?style=flat-square&logoColor=775C56) &nbsp;**Quantum-Enhanced Forecasting · Cross-Asset Generalization**</sub>
 
-| | |
-|---|---|
-| ✦ **Overview** | Evaluated synthetic data generation (Gaussian noise / GAN frameworks) and temporal out-of-sample validation on classical vs. Quantum-Enhanced LSTM (QLSTM) architectures across financial assets (AAPL, MSFT, GOOGL, BTC-USD). |
-| ✦ **Key Findings** | Strict temporal validation (65/15/20 split) eliminated data leakage and established realistic performance bounds. Hybrid QLSTM models maintained stable Sharpe Ratios ($0.80+$ for AAPL, $0.7717$ for BTC) while reducing maximum drawdowns compared to baseline configurations. |
+&nbsp;&nbsp;&nbsp;**Stock Prediction Using Quantitative Models · Out-of-Sample Validation & Cross-Asset Generalization**
 
-</details>
+&nbsp;&nbsp;&nbsp;<sub>👤 Mentor: Courtney Bushyeager</sub>
 
-<br/>
-
-<details open>
-<summary><b>ʚɞ &nbsp;Hybrid Quantitative Machine Learning Model for Brain Tumor Predictions</b></summary>
+> Evaluated synthetic data generation (Gaussian noise / GAN frameworks) and temporal out-of-sample validation on classical vs. Quantum-Enhanced LSTM (QLSTM) architectures across financial assets (AAPL, MSFT, GOOGL, BTC-USD). Strict temporal validation (65/15/20 split) eliminated data leakage and established realistic performance bounds. Hybrid QLSTM models maintained stable Sharpe Ratios ($0.80+$ for AAPL, $0.7717$ for BTC) while reducing maximum drawdowns.
 
 <br/>
 
-> 👤 &nbsp;*Mentor: Jungsoo Han*
-
-| | |
-|---|---|
-| ✦ **Overview** | Evaluated whether hybrid datasets combining real MRI scans (Kaggle & TCIA) with synthetically augmented image data improve diagnostic performance across CNNs, SVMs, MobileNetV2, and EfficientNet-B3 architectures. |
-| ✦ **Key Findings** | Kaggle Real & Synthetic Baseline CNN achieved the highest overall accuracy at **97.2% ± 0.4%** (outperforming the real-only baseline at 93.5% ± 0.7%). The EfficientNet-B3 hybrid model achieved **94.9% ± 0.4%** accuracy with high specificity (98.3% ± 0.1%). |
-
-</details>
+<div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
 
 <br/>
 
-<details open>
-<summary><b>ʚɞ &nbsp;Algorithmic Bias in Real Estate Automated Valuation Models — SGV Case Study &nbsp;<code>In Progress</code></b></summary>
+&nbsp;&nbsp;&nbsp;<sub>![03](https://img.shields.io/badge/03-FFD3D4?style=flat-square&logoColor=775C56) &nbsp;**Medical AI · Hybrid Imaging & Diagnostic Performance**</sub>
+
+&nbsp;&nbsp;&nbsp;**Hybrid Quantitative Machine Learning Model for Brain Tumor Predictions**
+
+&nbsp;&nbsp;&nbsp;<sub>👤 Mentor: Jungsoo Han</sub>
+
+> Evaluated whether hybrid datasets combining real MRI scans (Kaggle & TCIA) with synthetically augmented image data improve diagnostic performance across CNNs, SVMs, MobileNetV2, and EfficientNet-B3 architectures. Kaggle Real & Synthetic Baseline CNN achieved the highest overall accuracy at **97.2% ± 0.4%** (outperforming the real-only baseline at 93.5% ± 0.7%). EfficientNet-B3 hybrid achieved **94.9% ± 0.4%** accuracy with high specificity (98.3% ± 0.1%).
 
 <br/>
 
-| | |
-|---|---|
-| ✦ **Overview** | Investigating whether Automated Valuation Models (AVMs) systematically underprice properties in majority-minority neighborhoods across the San Gabriel Valley using FFIEC HMDA mortgage data and Zillow Research datasets. Applies econometric regression and ML classification to study the Fair Housing Act implications of algorithmic pricing. |
-
-</details>
+<div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+&nbsp;&nbsp;&nbsp;<sub>![04](https://img.shields.io/badge/04-D5EBE4?style=flat-square&logoColor=775C56) &nbsp;**Economic Equity · Algorithmic Bias in Housing Markets** &nbsp; ![wip](https://img.shields.io/badge/in_progress-F8F4E8?style=flat-square&logoColor=775C56)</sub>
 
-## ˚˖𓍢ִ໋❀ Featured Project
+&nbsp;&nbsp;&nbsp;**Algorithmic Bias in Real Estate Automated Valuation Models · SGV Case Study**
+
+> Investigating whether Automated Valuation Models (AVMs) systematically underprice properties in majority-minority neighborhoods across the San Gabriel Valley using FFIEC HMDA mortgage data and Zillow Research datasets. Applies econometric regression and ML classification to study Fair Housing Act implications of algorithmic pricing.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3D4&height=2&section=header" width="100%"/>
+
+<br/>
+
+## ˚˖𓍢ִ໋❀ &nbsp;𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑑 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠
 
 <br/>
 
@@ -113,34 +114,33 @@
 <tr>
 <td width="50%" valign="top">
 
-### ʚɞ SpotCheck — iOS Skin Condition Classifier
+<sub>![iOS](https://img.shields.io/badge/iOS_App-FFD3D4?style=flat-square&logoColor=775C56)</sub>
 
-On-device ML classification app featuring demographic-enhanced predictions with a real-time health insights dashboard
+### ʚɞ SpotCheck
 
-**Tech Stack**
+On-device ML skin condition classifier with demographic-enhanced predictions and a real-time health insights dashboard
 
-![Swift](https://img.shields.io/badge/Swift-FFB7C5?style=flat-square&logo=swift&logoColor=white)
-![CoreML](https://img.shields.io/badge/CoreML-C9B8E8?style=flat-square&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-B5D5F5?style=flat-square&logo=apple&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-D4F0C4?style=flat-square&logo=firebase&logoColor=333)
-![CreateML](https://img.shields.io/badge/CreateML-FFE4E1?style=flat-square&logo=apple&logoColor=333)
+![Swift](https://img.shields.io/badge/Swift-FFD3D4?style=flat-square&logo=swift&logoColor=775C56)
+![CoreML](https://img.shields.io/badge/CoreML-D5EBE4?style=flat-square&logo=apple&logoColor=775C56)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F8F4E8?style=flat-square&logo=apple&logoColor=775C56)
+![Firebase](https://img.shields.io/badge/Firebase-FFD3D4?style=flat-square&logo=firebase&logoColor=775C56)
 
-📎 **[SpotCheck](https://github.com/vnnviv/SpotCheck)**
+📎 **[github.com/vnnviv/SpotCheck](https://github.com/vnnviv/SpotCheck)**
 
 </td>
 <td width="50%" valign="top">
 
-### ʚɞ PediaVision — Skin Analysis ML System
+<sub>![ML](https://img.shields.io/badge/ML_System-D5EBE4?style=flat-square&logoColor=775C56)</sub>
 
-Pediatric skin analysis pipeline · EfficientNet-B3 · **82.5% accuracy**
+### ʚɞ PediaVision
 
-**Tech Stack**
+Pediatric skin analysis pipeline · EfficientNet-B3 · **82.5% accuracy** on HAM10000 + ACNE04
 
-![PyTorch](https://img.shields.io/badge/PyTorch-FFB7C5?style=flat-square&logo=pytorch&logoColor=white)
-![EfficientNet](https://img.shields.io/badge/EfficientNet--B3-C9B8E8?style=flat-square&logo=python&logoColor=white)
-![HAM10000](https://img.shields.io/badge/HAM10000-B5D5F5?style=flat-square&logo=databricks&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFD3D4?style=flat-square&logo=pytorch&logoColor=775C56)
+![EfficientNet](https://img.shields.io/badge/EfficientNet_B3-D5EBE4?style=flat-square&logo=python&logoColor=775C56)
+![HAM10000](https://img.shields.io/badge/HAM10000-F8F4E8?style=flat-square&logoColor=775C56)
 
-📎 **[PediaVision](https://github.com/vnnviv/PediaVision)**
+📎 **[github.com/vnnviv/PediaVision](https://github.com/vnnviv/PediaVision)**
 
 </td>
 </tr>
@@ -148,59 +148,70 @@ Pediatric skin analysis pipeline · EfficientNet-B3 · **82.5% accuracy**
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D5EBE4&height=2&section=header" width="100%"/>
 
-## 🛠 Tech Stack
+<br/>
+
+## ˚˖𓍢ִ໋❀ &nbsp;𝑡𝑒𝑐ℎ 𝑠𝑡𝑎𝑐𝑘
 
 <div align="center">
 
-**Languages & Frameworks**
+<sub>**languages & frameworks**</sub>
 
-![Python](https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-C9B8E8?style=for-the-badge&logo=swift&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-B5D5F5?style=for-the-badge&logo=pytorch&logoColor=white)
-![Java](https://img.shields.io/badge/Java-D4F0C4?style=for-the-badge&logo=java&logoColor=333)
+![Python](https://img.shields.io/badge/Python-FFD3D4?style=for-the-badge&logo=python&logoColor=775C56)
+![Swift](https://img.shields.io/badge/Swift-D5EBE4?style=for-the-badge&logo=swift&logoColor=775C56)
+![PyTorch](https://img.shields.io/badge/PyTorch-F8F4E8?style=for-the-badge&logo=pytorch&logoColor=775C56)
+![Java](https://img.shields.io/badge/Java-FFD3D4?style=for-the-badge&logo=java&logoColor=775C56)
 
-**ML & Quantitative**
+<br/>
 
-![LSTM](https://img.shields.io/badge/LSTM-FFB7C5?style=flat-square&logoColor=white)
-![GANs](https://img.shields.io/badge/GANs%20(WGAN%20·%20CycleGAN)-C9B8E8?style=flat-square)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-B5D5F5?style=flat-square&logo=python&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-D4F0C4?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-FFE4E1?style=flat-square&logo=pandas&logoColor=333)
-![NumPy](https://img.shields.io/badge/NumPy-FFB7C5?style=flat-square&logo=numpy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-C9B8E8?style=flat-square&logo=scikit-learn&logoColor=white)
+<sub>**ml & quantitative**</sub>
 
-**Tools**
+![LSTM](https://img.shields.io/badge/LSTM-FFD3D4?style=flat-square&logoColor=775C56)
+![WGAN](https://img.shields.io/badge/WGAN_·_CycleGAN-D5EBE4?style=flat-square)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-F8F4E8?style=flat-square&logo=python&logoColor=775C56)
+![PennyLane](https://img.shields.io/badge/PennyLane-FFD3D4?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-D5EBE4?style=flat-square&logo=pandas&logoColor=775C56)
+![NumPy](https://img.shields.io/badge/NumPy-F8F4E8?style=flat-square&logo=numpy&logoColor=775C56)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-FFD3D4?style=flat-square&logo=scikit-learn&logoColor=775C56)
 
-![Git](https://img.shields.io/badge/Git-B5D5F5?style=flat-square&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-D4F0C4?style=flat-square&logo=firebase&logoColor=333)
-![LaTeX](https://img.shields.io/badge/LaTeX-FFE4E1?style=flat-square&logo=latex&logoColor=333)
-![CoreML](https://img.shields.io/badge/CoreML-FFB7C5?style=flat-square&logo=apple&logoColor=white)
+<br/>
 
-**Languages Spoken**
+<sub>**tools**</sub>
 
-![English](https://img.shields.io/badge/English-Native-C9B8E8?style=flat-square)
-![Mandarin](https://img.shields.io/badge/Mandarin-Intermediate-B5D5F5?style=flat-square)
-![Cantonese](https://img.shields.io/badge/Cantonese-Intermediate-D4F0C4?style=flat-square)
+![Git](https://img.shields.io/badge/Git-D5EBE4?style=flat-square&logo=git&logoColor=775C56)
+![Firebase](https://img.shields.io/badge/Firebase-F8F4E8?style=flat-square&logo=firebase&logoColor=775C56)
+![LaTeX](https://img.shields.io/badge/LaTeX-FFD3D4?style=flat-square&logo=latex&logoColor=775C56)
+![CoreML](https://img.shields.io/badge/CoreML-D5EBE4?style=flat-square&logo=apple&logoColor=775C56)
+
+<br/>
+
+<sub>**spoken languages**</sub>
+
+![English](https://img.shields.io/badge/English_·_Native-FFD3D4?style=flat-square&logoColor=775C56)
+![Mandarin](https://img.shields.io/badge/Mandarin_·_Intermediate-D5EBE4?style=flat-square&logoColor=775C56)
+![Cantonese](https://img.shields.io/badge/Cantonese_·_Intermediate-F8F4E8?style=flat-square&logoColor=775C56)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3D4&height=2&section=header" width="100%"/>
 
-## ㅤ♡ྀི ₊ Contact
+<br/>
+
+## ㅤ♡ྀི ₊ &nbsp;𝑐𝑜𝑛𝑡𝑎𝑐𝑡
+
 <div align="center">
 
-  **Email:** [varyseo0@gmail.com](mailto:varyseo0@gmail.com) 
-  
-  **LinkedIn:** [Vivian Chan](https://www.linkedin.com/in/vivian-c-94303232b/)
-  
-   **Discord:** `vnnviv`
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b5d5f5,50:c9b8e8,100:ffd6e7&height=100&section=footer" width="100%"/>
 
-*Made with 🤍*
+<sub>✉️ &nbsp;[varyseo0@gmail.com](mailto:varyseo0@gmail.com) &nbsp;&nbsp; 💼 &nbsp;[Vivian Chan](https://www.linkedin.com/in/vivian-c-94303232b/) &nbsp;&nbsp; 💬 &nbsp;`vnnviv`</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F4E8,50:D5EBE4,100:FFD3D4&height=110&section=footer" width="100%"/>
+
+<sub>*made with 🤍*</sub>
 
 </div>
