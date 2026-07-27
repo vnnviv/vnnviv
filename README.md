@@ -23,23 +23,27 @@
 
 ### ᧔ෆ᧓ Research
 
-* ʚɞ **Stock Price Prediction Using Synthetic Data Augmentation with Generative Models**  
-  *CalCyAIVR Institute — PolySec Lab, Cal Poly Pomona*  
+* ʚɞ **Stock Price Prediction Using Synthetic Data Augmentation with Generative Models**
+  *CalCyAIVR Institute — PolySec Lab, Cal Poly Pomona*
+  
+     *(Mentor: Mohammad Husain & Antoine Si)*    
   * ✦ **Recognition:** Presented at SCCUR 2025 · 3rd Place, Pomona High School Research Conference  
   * ✦ **Overview:** Comparative analysis of LSTM models trained on real vs. synthetic financial time series data using WGAN, CycleGAN, and SMOTE-TS augmentation pipelines. Introduces the *Autocorrelation Inflation Effect* and *Leakage Inflation Ratio* as diagnostic frameworks for evaluating spurious predictability in financial ML research.  
   * ✦ **Status:** `Working paper on SSRN` · *[Link coming soon]*
 
 <br />
 
-* ʚɞ **Stock Prediction Using Quantitative Models — Out-of-Sample Validation & Cross-Asset Generalization**  
-  *(Mentor: Courtney Bushyeager)*  
+* ʚɞ **Stock Prediction Using Quantitative Models — Out-of-Sample Validation & Cross-Asset Generalization**
+  
+    *(Mentor: Courtney Bushyeager)*  
   * ✦ **Overview:** Evaluated synthetic data generation (Gaussian noise / GAN frameworks) and temporal out-of-sample validation on classical vs. Quantum-Enhanced LSTM (QLSTM) architectures across financial assets (AAPL, MSFT, GOOGL, BTC-USD).  
   * ✦ **Key Findings:** Strict temporal validation (65/15/20 split) eliminated data leakage and established realistic performance bounds. Hybrid QLSTM models maintained stable Sharpe Ratios ($0.80+$ for AAPL, $0.7717$ for BTC) while reducing maximum drawdowns compared to baseline configurations.
 
 <br />
 
 * ʚɞ **Hybrid Quantitative Machine Learning Model for Brain Tumor Predictions**
-  *(Mentor: Jungsoo Han)*  
+
+   *(Mentor: Jungsoo Han)*  
   * ✦ **Overview:** Evaluated whether hybrid datasets combining real MRI scans (Kaggle & TCIA) with synthetically augmented image data improve diagnostic performance across CNNs, SVMs, MobileNetV2, and EfficientNet-B3 architectures.  
   * ✦ **Key Findings:** Kaggle Real & Synthetic Baseline CNN achieved the highest overall accuracy at **$97.2\% \pm 0.4\%$** (outperforming the real-only baseline at $93.5\% \pm 0.7\%$). The EfficientNet-B3 hybrid model achieved **$94.9\% \pm 0.4\%$** accuracy with high specificity ($98.3\% \pm 0.1\%$).
 
