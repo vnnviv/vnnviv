@@ -54,7 +54,7 @@
 
 &nbsp;&nbsp;&nbsp;<sub>🏛 CalCyAIVR Institute, PolySec Lab, Cal Poly Pomona &nbsp;·&nbsp; 👤 Mentor: Mohammad Husain & Antoine Si</sub>
 
-&nbsp;&nbsp;&nbsp;<sub>[![SSRN](https://img.shields.io/badge/SSRN_Working_Paper-F8F4E8?style=flat-square&logoColor=775C56)](https://ssrn.com) &nbsp; [![SCCUR](https://img.shields.io/badge/Presented_at_SCCUR_2025-D5EBE4?style=flat-square&logoColor=775C56)](.) &nbsp; [![Award](https://img.shields.io/badge/3rd_Place_·_Pomona_HS_Research-FFD3D4?style=flat-square&logoColor=775C56)](.)</sub>
+&nbsp;&nbsp;&nbsp;<sub>[![SSRN](https://img.shields.io/badge/SSRN_Working_Paper-F8F4E8?style=flat-square&logoColor=775C56)](https://ssrn.com) &nbsp; [![SCCUR](https://img.shields.io/badge/Presented_at_SCCUR_2025-D5EBE4?style=flat-square&logoColor=775C56)](.) &nbsp; </sub>
 
 > Comparative analysis of LSTM models trained on real vs. synthetic financial time series data using WGAN, CycleGAN, and SMOTE-TS augmentation pipelines. Introduces the ***Autocorrelation Inflation Effect*** and ***Leakage Inflation Ratio*** as diagnostic frameworks for evaluating spurious predictability in financial ML research.
 
