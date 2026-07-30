@@ -149,40 +149,6 @@ Pediatric skin analysis pipeline · EfficientNet-B3 · **82.5% accuracy** on HAM
 
 <br/>
 
-## ˚˖𓍢ִ໋❀ &nbsp;𝑡𝑒𝑐ℎ 𝑠𝑡𝑎𝑐𝑘
-
-<div align="center">
-
-<sub>**languages & frameworks**</sub>
-
-![Python](https://img.shields.io/badge/Python-FFD3D4?style=for-the-badge&logo=python&logoColor=775C56)
-![Swift](https://img.shields.io/badge/Swift-D5EBE4?style=for-the-badge&logo=swift&logoColor=775C56)
-![PyTorch](https://img.shields.io/badge/PyTorch-F8F4E8?style=for-the-badge&logo=pytorch&logoColor=775C56)
-![Java](https://img.shields.io/badge/Java-FFD3D4?style=for-the-badge&logo=java&logoColor=775C56)
-
-<br/>
-
-<sub>**ml & quantitative**</sub>
-
-![LSTM](https://img.shields.io/badge/LSTM-FFD3D4?style=flat-square&logoColor=775C56)
-![WGAN](https://img.shields.io/badge/WGAN_·_CycleGAN-D5EBE4?style=flat-square)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-F8F4E8?style=flat-square&logo=python&logoColor=775C56)
-![PennyLane](https://img.shields.io/badge/PennyLane-FFD3D4?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-D5EBE4?style=flat-square&logo=pandas&logoColor=775C56)
-![NumPy](https://img.shields.io/badge/NumPy-F8F4E8?style=flat-square&logo=numpy&logoColor=775C56)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-FFD3D4?style=flat-square&logo=scikit-learn&logoColor=775C56)
-
-<br/>
-
-<sub>**tools**</sub>
-
-![Git](https://img.shields.io/badge/Git-D5EBE4?style=flat-square&logo=git&logoColor=775C56)
-![Firebase](https://img.shields.io/badge/Firebase-F8F4E8?style=flat-square&logo=firebase&logoColor=775C56)
-![LaTeX](https://img.shields.io/badge/LaTeX-FFD3D4?style=flat-square&logo=latex&logoColor=775C56)
-![CoreML](https://img.shields.io/badge/CoreML-D5EBE4?style=flat-square&logo=apple&logoColor=775C56)
-
-<br/>
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F4E8,50:D5EBE4,100:FFD3D4&height=110&section=footer" width="100%"/>
