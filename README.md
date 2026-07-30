@@ -12,7 +12,6 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/varysee@gmail.com-FFD3D4?style=for-the-badge&logo=gmail&logoColor=775C56)](mailto:varysee0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Vivian_Chan-D5EBE4?style=for-the-badge&logo=linkedin&logoColor=775C56)](https://www.linkedin.com/in/vivian-c-94303232b/)
 [![Discord](https://img.shields.io/badge/vnnviv-F8F4E8?style=for-the-badge&logo=discord&logoColor=775C56)](https://discord.com/users/YOUR-USER-ID)
 [![GitHub](https://img.shields.io/badge/vnnviv-FFD3D4?style=for-the-badge&logo=github&logoColor=775C56)](https://github.com/vnnviv)
 
