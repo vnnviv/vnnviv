@@ -27,17 +27,7 @@
 
 <br/>
 
-## ⋆˚✿˖° 𝑎𝑏𝑜𝑢𝑡 𝑚𝑒
 
-> Hii, I specialize in synthetic data augmentation for financial time series and evaluating algorithmic bias in models. My focus lies at the intersection of quantitative modeling, machine learning diagnostics, and economic equity.
->
-> I would love to connect with anyone interested in similar research fields, but I'm really open minded! Please feel free to reach out! <3
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D5EBE4&height=2&section=header" width="100%"/>
-
-<br/>
 
 ## ᧔ෆ᧓ &nbsp;𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ
 
@@ -89,15 +79,6 @@
 
 <div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
 
-<br/>
-
-&nbsp;&nbsp;&nbsp;<sub>![04](https://img.shields.io/badge/04-D5EBE4?style=flat-square&logoColor=775C56) &nbsp;**Economic Equity · Algorithmic Bias in Housing Markets** &nbsp; ![wip](https://img.shields.io/badge/in_progress-F8F4E8?style=flat-square&logoColor=775C56)</sub>
-
-&nbsp;&nbsp;&nbsp;**Algorithmic Bias in Real Estate Automated Valuation Models · SGV Case Study**
-
-> Investigating whether Automated Valuation Models (AVMs) systematically underprice properties in majority-minority neighborhoods across the San Gabriel Valley using FFIEC HMDA mortgage data and Zillow Research datasets. Applies econometric regression and ML classification to study Fair Housing Act implications of algorithmic pricing.
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3D4&height=2&section=header" width="100%"/>
 
