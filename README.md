@@ -1,4 +1,4 @@
-## ᧔ෆ᧓ &nbsp; how to conect me
+## ᧔ෆ᧓ &nbsp; junni's contact information
 varyseo0@gmail.com
 discord: vnnviv
 
