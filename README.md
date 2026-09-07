@@ -1,7 +1,8 @@
-## &nbsp; ⊹ junni's contact information!
-varyseo0@gmail.com
+## ⊹ &nbsp;𝑗𝑢𝑛𝑛𝑖'𝑠 𝑐𝑜𝑛𝑡𝑎𝑐𝑡 𝑖𝑛𝑓𝑜𝑟𝑚𝑎𝑡𝑖𝑜𝑛
+
+&nbsp;&nbsp;&nbsp;<sub>@ &nbsp;**varyseo0@gmail.com**</sub>
 <br/>
-discord: vnnviv
+&nbsp;&nbsp;&nbsp;<sub>... &nbsp;**discord: vnnviv**</sub>
 
 ## ᧔ෆ᧓ &nbsp;𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ
 
