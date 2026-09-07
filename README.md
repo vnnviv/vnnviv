@@ -1,33 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD3D4,50:D5EBE4,100:F8F4E8&height=130&section=header&text=&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<h1 align="center" style="font-family: 'DM Serif Display', Georgia, serif; color: #775C56;">Vivian Chan</h1>
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=15&pause=1000&color=A08070&center=true&vCenter=true&width=560&lines=quantitative+research+%E2%8B%86+economics+%2B+math;ML+diagnostics+%E2%8B%86+housing+equity+%E2%8B%86+financial+modeling;connecting+math+to+the+real+world+%E2%8B%86" alt="Subtitle"/>
-
-<br/>
-
-[![Email](https://img.shields.io/badge/varysee@gmail.com-FFD3D4?style=for-the-badge&logo=gmail&logoColor=775C56)](mailto:varyseo0@gmail.com)
-[![Discord](https://img.shields.io/badge/vnnviv-F8F4E8?style=for-the-badge&logo=discord&logoColor=775C56)](https://discord.com/users/YOUR-USER-ID)
-
-<br/>
-
-<sub>⊹ ˖ ° ⋆ &nbsp; *⸜(｡˃ ᵕ ˂ )⸝♡* &nbsp; ⋆ ° ˖ ⊹</sub>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3D4&height=2&section=header" width="100%"/>
-
-<br/>
-
-
-
 ## ᧔ෆ᧓ &nbsp;𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ
 
 <div align="center">
