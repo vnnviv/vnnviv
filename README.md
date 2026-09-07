@@ -13,47 +13,34 @@
 <br/>
 
 &nbsp;&nbsp;&nbsp;<sub>![01](https://img.shields.io/badge/01-FFD3D4?style=flat-square&logoColor=775C56) &nbsp;**Financial Machine Learning · Synthetic Data Augmentation**</sub>
-
 &nbsp;&nbsp;&nbsp;**Stock Price Prediction Using Synthetic Data Augmentation with Generative Models**
-
 &nbsp;&nbsp;&nbsp;<sub>🏛 CalCyAIVR Institute, PolySec Lab, Cal Poly Pomona &nbsp;·&nbsp; 👤 Mentor: Mohammad Husain & Antoine Si</sub>
-
 &nbsp;&nbsp;&nbsp;<sub>[![SSRN](https://img.shields.io/badge/SSRN_Working_Paper-F8F4E8?style=flat-square&logoColor=775C56)](https://ssrn.com) &nbsp; [![SCCUR](https://img.shields.io/badge/Presented_at_SCCUR_2025-D5EBE4?style=flat-square&logoColor=775C56)](.) &nbsp; </sub>
 
 > Comparative analysis of LSTM models trained on real vs. synthetic financial time series data using WGAN, CycleGAN, and SMOTE-TS augmentation pipelines. Introduces the ***Autocorrelation Inflation Effect*** and ***Leakage Inflation Ratio*** as diagnostic frameworks for evaluating spurious predictability in financial ML research.
 
 <br/>
-
 <div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
-
 <br/>
 
 &nbsp;&nbsp;&nbsp;<sub>![02](https://img.shields.io/badge/02-D5EBE4?style=flat-square&logoColor=775C56) &nbsp;**Quantum-Enhanced Forecasting · Cross-Asset Generalization**</sub>
-
 &nbsp;&nbsp;&nbsp;**Stock Prediction Using Quantitative Models · Out-of-Sample Validation & Cross-Asset Generalization**
-
 &nbsp;&nbsp;&nbsp;<sub>👤 Mentor: Courtney Bushyeager</sub>
 
 > Evaluated synthetic data generation (Gaussian noise / GAN frameworks) and temporal out-of-sample validation on classical vs. Quantum-Enhanced LSTM (QLSTM) architectures across financial assets (AAPL, MSFT, GOOGL, BTC-USD). Strict temporal validation (65/15/20 split) eliminated data leakage and established realistic performance bounds. Hybrid QLSTM models maintained stable Sharpe Ratios ($0.80+$ for AAPL, $0.7717$ for BTC) while reducing maximum drawdowns.
 
 <br/>
-
 <div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
-
 <br/>
 
 &nbsp;&nbsp;&nbsp;<sub>![03](https://img.shields.io/badge/03-FFD3D4?style=flat-square&logoColor=775C56) &nbsp;**Biomedical ML · Hybrid Imaging & Diagnostic Performance**</sub>
-
 &nbsp;&nbsp;&nbsp;**Hybrid Quantitative Machine Learning Model for Brain Tumor Predictions**
-
 &nbsp;&nbsp;&nbsp;<sub>👤 Mentor: Jungsoo Han</sub>
 
 > Evaluated whether hybrid datasets combining real MRI scans (Kaggle & TCIA) with synthetically augmented image data improve diagnostic performance across CNNs, SVMs, MobileNetV2, and EfficientNet-B3 architectures. Kaggle Real & Synthetic Baseline CNN achieved the highest overall accuracy at **97.2% ± 0.4%** (outperforming the real-only baseline at 93.5% ± 0.7%). EfficientNet-B3 hybrid achieved **94.9% ± 0.4%** accuracy with high specificity (98.3% ± 0.1%).
 
 <br/>
-
 <div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3D4&height=2&section=header" width="100%"/>
 
@@ -100,14 +87,6 @@ Pediatric skin analysis pipeline · EfficientNet-B3 · **82.5% accuracy** on HAM
 </table>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D5EBE4&height=2&section=header" width="100%"/>
-
-<br/>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F4E8,50:D5EBE4,100:FFD3D4&height=110&section=footer" width="100%"/>
 
 <sub>*made with 🤍*</sub>
 
