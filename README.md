@@ -1,5 +1,6 @@
-## ^^ &nbsp; junni's contact information
+## &nbsp; ⊹ junni's contact information!
 varyseo0@gmail.com
+<br/>
 discord: vnnviv
 
 ## ᧔ෆ᧓ &nbsp;𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ
