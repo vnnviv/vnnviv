@@ -1,8 +1,7 @@
 ## ⊹ &nbsp;𝑗𝑢𝑛𝑛𝑖'𝑠 𝑐𝑜𝑛𝑡𝑎𝑐𝑡 𝑖𝑛𝑓𝑜𝑟𝑚𝑎𝑡𝑖𝑜𝑛
 
-&nbsp;&nbsp;&nbsp;<sub>@ &nbsp;**varyseo0@gmail.com**</sub>
-<br/>
-&nbsp;&nbsp;&nbsp;<sub>... &nbsp;**discord: vnnviv**</sub>
+<sub>@ &nbsp;**varyseo0@gmail.com**</sub><br/>
+<sub>... &nbsp;**discord: vnnviv**</sub>
 
 ## ᧔ෆ᧓ &nbsp;𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ
 
@@ -12,34 +11,36 @@
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;<sub>![01](https://img.shields.io/badge/01-FFD3D4?style=flat-square&logoColor=775C56) &nbsp;**Financial Machine Learning · Synthetic Data Augmentation**</sub>
-&nbsp;&nbsp;&nbsp;**Stock Price Prediction Using Synthetic Data Augmentation with Generative Models**
-&nbsp;&nbsp;&nbsp;<sub>🏛 CalCyAIVR Institute, PolySec Lab, Cal Poly Pomona &nbsp;·&nbsp; 👤 Mentor: Mohammad Husain & Antoine Si</sub>
-&nbsp;&nbsp;&nbsp;<sub>[![SSRN](https://img.shields.io/badge/SSRN_Working_Paper-F8F4E8?style=flat-square&logoColor=775C56)](https://ssrn.com) &nbsp; [![SCCUR](https://img.shields.io/badge/Presented_at_SCCUR_2025-D5EBE4?style=flat-square&logoColor=775C56)](.) &nbsp; </sub>
+<sub>![01](https://img.shields.io/badge/01-FFD3D4?style=flat-square&logoColor=775C56) &nbsp;**Financial Machine Learning · Synthetic Data Augmentation**</sub>
+
+**Stock Price Prediction Using Synthetic Data Augmentation with Generative Models**
+
+<sub>🏛 CalCyAIVR Institute, PolySec Lab, Cal Poly Pomona &nbsp;·&nbsp; 👤 Mentor: Mohammad Husain & Antoine Si</sub>
+
+<sub>[![SSRN](https://img.shields.io/badge/SSRN_Working_Paper-FFEAEB?style=flat-square&logoColor=775C56)](https://ssrn.com) &nbsp; [![SCCUR](https://img.shields.io/badge/Presented_at_SCCUR_2025-F7BFC3?style=flat-square&logoColor=775C56)](.)</sub>
 
 > Comparative analysis of LSTM models trained on real vs. synthetic financial time series data using WGAN, CycleGAN, and SMOTE-TS augmentation pipelines. Introduces the ***Autocorrelation Inflation Effect*** and ***Leakage Inflation Ratio*** as diagnostic frameworks for evaluating spurious predictability in financial ML research.
 
-<br/>
 <div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
-<br/>
 
-&nbsp;&nbsp;&nbsp;<sub>![02](https://img.shields.io/badge/02-D5EBE4?style=flat-square&logoColor=775C56) &nbsp;**Quantum-Enhanced Forecasting · Cross-Asset Generalization**</sub>
-&nbsp;&nbsp;&nbsp;**Stock Prediction Using Quantitative Models · Out-of-Sample Validation & Cross-Asset Generalization**
-&nbsp;&nbsp;&nbsp;<sub>👤 Mentor: Courtney Bushyeager</sub>
+<sub>![02](https://img.shields.io/badge/02-F7BFC3?style=flat-square&logoColor=775C56) &nbsp;**Quantum-Enhanced Forecasting · Cross-Asset Generalization**</sub>
 
-> Evaluated synthetic data generation (Gaussian noise / GAN frameworks) and temporal out-of-sample validation on classical vs. Quantum-Enhanced LSTM (QLSTM) architectures across financial assets (AAPL, MSFT, GOOGL, BTC-USD). Strict temporal validation (65/15/20 split) eliminated data leakage and established realistic performance bounds. Hybrid QLSTM models maintained stable Sharpe Ratios ($0.80+$ for AAPL, $0.7717$ for BTC) while reducing maximum drawdowns.
+**Stock Prediction Using Quantitative Models · Out-of-Sample Validation & Cross-Asset Generalization**
 
-<br/>
+<sub>👤 Mentor: Courtney Bushyeager</sub>
+
+> Evaluated synthetic data generation (Gaussian noise / GAN frameworks) and temporal out-of-sample validation on classical vs. Quantum-Enhanced LSTM (QLSTM) architectures across financial assets (AAPL, MSFT, GOOGL, BTC-USD). Strict temporal validation (65/15/20 split) eliminated data leakage and established realistic performance bounds. Hybrid QLSTM models maintained stable Sharpe Ratios (0.80+ for AAPL, 0.7717 for BTC) while reducing maximum drawdowns.
+
 <div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
-<br/>
 
-&nbsp;&nbsp;&nbsp;<sub>![03](https://img.shields.io/badge/03-FFD3D4?style=flat-square&logoColor=775C56) &nbsp;**Biomedical ML · Hybrid Imaging & Diagnostic Performance**</sub>
-&nbsp;&nbsp;&nbsp;**Hybrid Quantitative Machine Learning Model for Brain Tumor Predictions**
-&nbsp;&nbsp;&nbsp;<sub>👤 Mentor: Jungsoo Han</sub>
+<sub>![03](https://img.shields.io/badge/03-FFD3D4?style=flat-square&logoColor=775C56) &nbsp;**Biomedical ML · Hybrid Imaging & Diagnostic Performance**</sub>
+
+**Hybrid Quantitative Machine Learning Model for Brain Tumor Predictions**
+
+<sub>👤 Mentor: Jungsoo Han</sub>
 
 > Evaluated whether hybrid datasets combining real MRI scans (Kaggle & TCIA) with synthetically augmented image data improve diagnostic performance across CNNs, SVMs, MobileNetV2, and EfficientNet-B3 architectures. Kaggle Real & Synthetic Baseline CNN achieved the highest overall accuracy at **97.2% ± 0.4%** (outperforming the real-only baseline at 93.5% ± 0.7%). EfficientNet-B3 hybrid achieved **94.9% ± 0.4%** accuracy with high specificity (98.3% ± 0.1%).
 
-<br/>
 <div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3D4&height=2&section=header" width="100%"/>
@@ -61,8 +62,8 @@
 On-device ML skin condition classifier with demographic-enhanced predictions and a real-time health insights dashboard
 
 ![Swift](https://img.shields.io/badge/Swift-FFD3D4?style=flat-square&logo=swift&logoColor=775C56)
-![CoreML](https://img.shields.io/badge/CoreML-D5EBE4?style=flat-square&logo=apple&logoColor=775C56)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F8F4E8?style=flat-square&logo=apple&logoColor=775C56)
+![CoreML](https://img.shields.io/badge/CoreML-F7BFC3?style=flat-square&logo=apple&logoColor=775C56)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FFEAEB?style=flat-square&logo=apple&logoColor=775C56)
 ![Firebase](https://img.shields.io/badge/Firebase-FFD3D4?style=flat-square&logo=firebase&logoColor=775C56)
 
 📎 **[github.com/vnnviv/SpotCheck](https://github.com/vnnviv/SpotCheck)**
@@ -70,15 +71,15 @@ On-device ML skin condition classifier with demographic-enhanced predictions and
 </td>
 <td width="50%" valign="top">
 
-<sub>![ML](https://img.shields.io/badge/ML_System-D5EBE4?style=flat-square&logoColor=775C56)</sub>
+<sub>![ML](https://img.shields.io/badge/ML_System-F7BFC3?style=flat-square&logoColor=775C56)</sub>
 
 ### ʚɞ PediaVision
 
 Pediatric skin analysis pipeline · EfficientNet-B3 · **82.5% accuracy** on HAM10000 + ACNE04
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-FFD3D4?style=flat-square&logo=pytorch&logoColor=775C56)
-![EfficientNet](https://img.shields.io/badge/EfficientNet_B3-D5EBE4?style=flat-square&logo=python&logoColor=775C56)
-![HAM10000](https://img.shields.io/badge/HAM10000-F8F4E8?style=flat-square&logoColor=775C56)
+![EfficientNet](https://img.shields.io/badge/EfficientNet_B3-F7BFC3?style=flat-square&logo=python&logoColor=775C56)
+![HAM10000](https://img.shields.io/badge/HAM10000-FFEAEB?style=flat-square&logoColor=775C56)
 
 📎 **[github.com/vnnviv/PediaVision](https://github.com/vnnviv/PediaVision)**
 
@@ -88,6 +89,4 @@ Pediatric skin analysis pipeline · EfficientNet-B3 · **82.5% accuracy** on HAM
 
 <br/>
 
-<sub>*made with 🤍*</sub>
-
-</div>
+<div align="center"><sub><i>made with 🤍</i></sub></div>
