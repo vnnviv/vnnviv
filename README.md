@@ -1,3 +1,7 @@
+## ᧔ෆ᧓ &nbsp; how to conect me
+varyseo0@gmail.com
+discord: vnnviv
+
 ## ᧔ෆ᧓ &nbsp;𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ
 
 <div align="center">
