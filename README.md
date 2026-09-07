@@ -27,8 +27,6 @@
 
 **Stock Prediction Using Quantitative Models · Out-of-Sample Validation & Cross-Asset Generalization**
 
-<sub>👤 Mentor: Courtney Bushyeager</sub>
-
 > Evaluated synthetic data generation (Gaussian noise / GAN frameworks) and temporal out-of-sample validation on classical vs. Quantum-Enhanced LSTM (QLSTM) architectures across financial assets (AAPL, MSFT, GOOGL, BTC-USD). Strict temporal validation (65/15/20 split) eliminated data leakage and established realistic performance bounds. Hybrid QLSTM models maintained stable Sharpe Ratios (0.80+ for AAPL, 0.7717 for BTC) while reducing maximum drawdowns.
 
 <div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
@@ -36,8 +34,6 @@
 <sub>![03](https://img.shields.io/badge/03-FFD3D4?style=flat-square&logoColor=775C56) &nbsp;**Biomedical ML · Hybrid Imaging & Diagnostic Performance**</sub>
 
 **Hybrid Quantitative Machine Learning Model for Brain Tumor Predictions**
-
-<sub>👤 Mentor: Jungsoo Han</sub>
 
 > Evaluated whether hybrid datasets combining real MRI scans (Kaggle & TCIA) with synthetically augmented image data improve diagnostic performance across CNNs, SVMs, MobileNetV2, and EfficientNet-B3 architectures. Kaggle Real & Synthetic Baseline CNN achieved the highest overall accuracy at **97.2% ± 0.4%** (outperforming the real-only baseline at 93.5% ± 0.7%). EfficientNet-B3 hybrid achieved **94.9% ± 0.4%** accuracy with high specificity (98.3% ± 0.1%).
 
