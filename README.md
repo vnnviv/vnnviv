@@ -65,7 +65,7 @@ On-device ML skin condition classifier with demographic-enhanced predictions and
 
 ### ʚɞ PediaVision
 
-Pediatric skin analysis pipeline · EfficientNet-B3 · **82.5% accuracy** on HAM10000 + ACNE04
+Pediatric skin analysis pipeline · **82.5% accuracy** on HAM10000 + ACNE04
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-FFD3D4?style=flat-square&logo=pytorch&logoColor=775C56)
 ![EfficientNet](https://img.shields.io/badge/EfficientNet_B3-F7BFC3?style=flat-square&logo=python&logoColor=775C56)
