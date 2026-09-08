@@ -27,15 +27,9 @@
 
 **Stock Prediction Using Quantitative Models · Out-of-Sample Validation & Cross-Asset Generalization**
 
+<sub>👤 Mentor: Courtney Bushyeager</sub>
+
 > Evaluated synthetic data generation (Gaussian noise / GAN frameworks) and temporal out-of-sample validation on classical vs. Quantum-Enhanced LSTM (QLSTM) architectures across financial assets (AAPL, MSFT, GOOGL, BTC-USD). Strict temporal validation (65/15/20 split) eliminated data leakage and established realistic performance bounds. Hybrid QLSTM models maintained stable Sharpe Ratios (0.80+ for AAPL, 0.7717 for BTC) while reducing maximum drawdowns.
-
-<div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
-
-<sub>![03](https://img.shields.io/badge/03-FFD3D4?style=flat-square&logoColor=775C56) &nbsp;**Biomedical ML · Hybrid Imaging & Diagnostic Performance**</sub>
-
-**Hybrid Quantitative Machine Learning Model for Brain Tumor Predictions**
-
-> Evaluated whether hybrid datasets combining real MRI scans (Kaggle & TCIA) with synthetically augmented image data improve diagnostic performance across CNNs, SVMs, MobileNetV2, and EfficientNet-B3 architectures. Kaggle Real & Synthetic Baseline CNN achieved the highest overall accuracy at **97.2% ± 0.4%** (outperforming the real-only baseline at 93.5% ± 0.7%). EfficientNet-B3 hybrid achieved **94.9% ± 0.4%** accuracy with high specificity (98.3% ± 0.1%).
 
 <div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
 
@@ -49,7 +43,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <sub>![iOS](https://img.shields.io/badge/iOS_App-FFD3D4?style=flat-square&logoColor=775C56)</sub>
 
@@ -65,7 +59,7 @@ On-device ML skin condition classifier with demographic-enhanced predictions and
 📎 **[github.com/vnnviv/SpotCheck](https://github.com/vnnviv/SpotCheck)**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <sub>![ML](https://img.shields.io/badge/ML_System-F7BFC3?style=flat-square&logoColor=775C56)</sub>
 
@@ -78,6 +72,21 @@ Pediatric skin analysis pipeline · EfficientNet-B3 · **82.5% accuracy** on HAM
 ![HAM10000](https://img.shields.io/badge/HAM10000-FFEAEB?style=flat-square&logoColor=775C56)
 
 📎 **[github.com/vnnviv/PediaVision](https://github.com/vnnviv/PediaVision)**
+
+</td>
+<td width="33%" valign="top">
+
+<sub>![BioMed](https://img.shields.io/badge/Biomedical_ML-FFEAEB?style=flat-square&logoColor=775C56)</sub>
+
+### ʚɞ Brain Tumor Classification
+
+Hybrid real + synthetic MRI datasets benchmarked across CNNs, SVMs, MobileNetV2 and EfficientNet-B3 · **97.2% ± 0.4%** accuracy vs. 93.5% real-only baseline
+
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-FFD3D4?style=flat-square&logo=python&logoColor=775C56)
+![EfficientNet](https://img.shields.io/badge/EfficientNet_B3-F7BFC3?style=flat-square&logo=python&logoColor=775C56)
+![TCIA](https://img.shields.io/badge/TCIA-FFD3D4?style=flat-square&logoColor=775C56)
+
+📎 **https://github.com/vnnviv/brain-tumors-classification-**
 
 </td>
 </tr>
