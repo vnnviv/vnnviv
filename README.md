@@ -80,7 +80,7 @@ Pediatric skin analysis pipeline · EfficientNet-B3 · **82.5% accuracy** on HAM
 
 ### ʚɞ Brain Tumor Classification
 
-Hybrid real + synthetic MRI datasets benchmarked across CNNs, SVMs, MobileNetV2 and EfficientNet-B3 · **97.2% ± 0.4%** accuracy vs. 93.5% real-only baseline
+Hybrid MRI datasets benchmarked across CNNs, SVMs, MobileNetV2 and EfficientNet-B3 · **97.2% ± 0.4%** accuracy vs. 93.5% real-only baseline
 
 ![MobileNetV2](https://img.shields.io/badge/MobileNetV2-FFD3D4?style=flat-square&logo=python&logoColor=775C56)
 ![EfficientNet](https://img.shields.io/badge/EfficientNet_B3-F7BFC3?style=flat-square&logo=python&logoColor=775C56)
