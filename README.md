@@ -78,15 +78,6 @@ Pediatric skin analysis pipeline · **82.5% accuracy** on HAM10000 + ACNE04
 
 <sub>![BioMed](https://img.shields.io/badge/Biomedical_ML-FFEAEB?style=flat-square&logoColor=775C56)</sub>
 
-### ʚɞ Brain Tumor Classification
-
-Hybrid MRI datasets · **97.2% ± 0.4%** accuracy vs. 93.5% real-only baseline
-
-![MobileNetV2](https://img.shields.io/badge/MobileNetV2-FFD3D4?style=flat-square&logo=python&logoColor=775C56)
-![EfficientNet](https://img.shields.io/badge/EfficientNet_B3-F7BFC3?style=flat-square&logo=python&logoColor=775C56)
-![TCIA](https://img.shields.io/badge/TCIA-FFD3D4?style=flat-square&logoColor=775C56)
-
-📎 **https://github.com/vnnviv/brain-tumors-classification-**
 
 </td>
 </tr>
