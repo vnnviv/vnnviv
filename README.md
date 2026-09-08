@@ -3,34 +3,6 @@
 <sub>@ &nbsp;**varyseo0@gmail.com**</sub><br/>
 <sub>... &nbsp;**discord: vnnviv**</sub>
 
-## ᧔ෆ᧓ &nbsp;𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ
-
-<div align="center">
-<sub>⊹ ◦ &nbsp; 𝑞𝑢𝑎𝑛𝑡𝑖𝑡𝑎𝑡𝑖𝑣𝑒 𝑚𝑜𝑑𝑒𝑙𝑖𝑛𝑔 &nbsp;·&nbsp; 𝑚𝑎𝑐ℎ𝑖𝑛𝑒 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑑𝑖𝑎𝑔𝑛𝑜𝑠𝑡𝑖𝑐𝑠 &nbsp;·&nbsp; 𝑒𝑐𝑜𝑛𝑜𝑚𝑖𝑐 𝑒𝑞𝑢𝑖𝑡𝑦 &nbsp; ◦ ⊹</sub>
-</div>
-
-<br/>
-
-<sub>![01](https://img.shields.io/badge/01-FFD3D4?style=flat-square&logoColor=775C56) &nbsp;**Financial Machine Learning · Synthetic Data Augmentation**</sub>
-
-**Stock Price Prediction Using Synthetic Data Augmentation with Generative Models**
-
-<sub>🏛 CalCyAIVR Institute, PolySec Lab, Cal Poly Pomona &nbsp;·&nbsp;
-
-> Comparative analysis of LSTM models trained on real vs. synthetic financial time series data using WGAN, CycleGAN, and SMOTE-TS augmentation pipelines. Introduces the ***Autocorrelation Inflation Effect*** and ***Leakage Inflation Ratio*** as diagnostic frameworks for evaluating spurious predictability in financial ML research.
-
-<div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
-
-<sub>![02](https://img.shields.io/badge/02-F7BFC3?style=flat-square&logoColor=775C56) &nbsp;**Quantum-Enhanced Forecasting · Cross-Asset Generalization**</sub>
-
-**Stock Prediction Using Quantitative Models · Out-of-Sample Validation & Cross-Asset Generalization**
-
-> Evaluated synthetic data generation (Gaussian noise / GAN frameworks) and temporal out-of-sample validation on classical vs. Quantum-Enhanced LSTM (QLSTM) architectures across financial assets (AAPL, MSFT, GOOGL, BTC-USD). Strict temporal validation (65/15/20 split) eliminated data leakage and established realistic performance bounds. Hybrid QLSTM models maintained stable Sharpe Ratios (0.80+ for AAPL, 0.7717 for BTC) while reducing maximum drawdowns.
-
-<div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD3D4&height=2&section=header" width="100%"/>
-
 <br/>
 
 ## ˚˖𓍢ִ໋❀ &nbsp;𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑑 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠
