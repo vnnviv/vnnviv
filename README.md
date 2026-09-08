@@ -73,8 +73,7 @@ Pediatric skin analysis pipeline · **82.5% accuracy** on HAM10000 + ACNE04
 
 📎 **[github.com/vnnviv/PediaVision](https://github.com/vnnviv/PediaVision)**
 
-</td>
-<td width="33%" valign="top">
+
 
 <sub>![BioMed](https://img.shields.io/badge/Biomedical_ML-FFEAEB?style=flat-square&logoColor=775C56)</sub>
 
