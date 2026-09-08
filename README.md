@@ -15,9 +15,7 @@
 
 **Stock Price Prediction Using Synthetic Data Augmentation with Generative Models**
 
-<sub>🏛 CalCyAIVR Institute, PolySec Lab, Cal Poly Pomona &nbsp;·&nbsp; 👤 Mentor: Mohammad Husain & Antoine Si</sub>
-
-<sub>[![SSRN](https://img.shields.io/badge/SSRN_Working_Paper-FFEAEB?style=flat-square&logoColor=775C56)](https://ssrn.com) &nbsp; [![SCCUR](https://img.shields.io/badge/Presented_at_SCCUR_2025-F7BFC3?style=flat-square&logoColor=775C56)](.)</sub>
+<sub>🏛 CalCyAIVR Institute, PolySec Lab, Cal Poly Pomona &nbsp;·&nbsp;
 
 > Comparative analysis of LSTM models trained on real vs. synthetic financial time series data using WGAN, CycleGAN, and SMOTE-TS augmentation pipelines. Introduces the ***Autocorrelation Inflation Effect*** and ***Leakage Inflation Ratio*** as diagnostic frameworks for evaluating spurious predictability in financial ML research.
 
