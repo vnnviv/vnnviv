@@ -27,8 +27,6 @@
 
 **Stock Prediction Using Quantitative Models · Out-of-Sample Validation & Cross-Asset Generalization**
 
-<sub>👤 Mentor: Courtney Bushyeager</sub>
-
 > Evaluated synthetic data generation (Gaussian noise / GAN frameworks) and temporal out-of-sample validation on classical vs. Quantum-Enhanced LSTM (QLSTM) architectures across financial assets (AAPL, MSFT, GOOGL, BTC-USD). Strict temporal validation (65/15/20 split) eliminated data leakage and established realistic performance bounds. Hybrid QLSTM models maintained stable Sharpe Ratios (0.80+ for AAPL, 0.7717 for BTC) while reducing maximum drawdowns.
 
 <div align="center"><sub>◦ &nbsp; ✦ &nbsp; ◦</sub></div>
@@ -72,10 +70,6 @@ Pediatric skin analysis pipeline · **82.5% accuracy** on HAM10000 + ACNE04
 ![HAM10000](https://img.shields.io/badge/HAM10000-FFEAEB?style=flat-square&logoColor=775C56)
 
 📎 **[github.com/vnnviv/PediaVision](https://github.com/vnnviv/PediaVision)**
-
-
-
-<sub>![BioMed](https://img.shields.io/badge/Biomedical_ML-FFEAEB?style=flat-square&logoColor=775C56)</sub>
 
 
 </td>
